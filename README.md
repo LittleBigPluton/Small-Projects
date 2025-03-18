@@ -8,10 +8,7 @@
 3. [Repository Structure](#repository-structure)
 4. [Circle Contours](#circle-contours)
 5. [Surface of Cylinders](#surface-of-cylinders)
-6. [Future Additions](#future-additions)
-7. [Contributing](#contributing)
-8. [License](#license)
-9. [References](#references)
+6. [References](#references)
 
 
 
@@ -131,3 +128,6 @@ By extending `Circle` with `Cylinder`, we can reuse `Circle`’s methods (`get_a
     Cylinder's surface area is 502.6548245743669
 
     ```
+    
+## References
+1. [Surface Area of Cylinder](https://www.geeksforgeeks.org/surface-area-of-cylinder/)
